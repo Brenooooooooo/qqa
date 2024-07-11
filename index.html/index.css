@@ -26,7 +26,7 @@ justify-content: space-around;
 align-items: center;
 font-size: 15px;
 flex-grow: 3;}
-#nav>div{flex-grow: 3;}
+
 
 #menu{grid-column: 2; grid-row: 2/4;}
 
