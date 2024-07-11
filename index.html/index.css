@@ -20,6 +20,8 @@ grid-template-rows: 80px 80px 431px 263px;}
 display: flex;}
 
 #nav>ul{display: flex;
+        
+#nav>div{flex-grow: 3;}
     
 list-style: none;
 justify-content: space-around;
