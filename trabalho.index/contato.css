@@ -1,0 +1,32 @@
+body {
+    background-color:  hwb(64 71% 1%);
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    margin: 50px auto;
+    width: 500px;
+    height: 5px;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .social-icons img {
+    width:80px;
+    height: 80px;
+  }
+  button {
+
+    width: 300px;
+    height: 80px;
+    background-color: hwb(64 71% 1%);
+    color: hwb(64 71% 1%);
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  img{width: 300px;
+height: 300px;}
